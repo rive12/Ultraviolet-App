@@ -2,6 +2,6 @@
   "name": "Fog Search",
   "description": "Node.js Ultraviolet instance",
   "repository": "https://github.com/rive12/Ultraviolet-App",
-  "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
+  "logo": "https://raw.githubusercontent.com/rive12/Ultraviolet-Static/main/public/uv.png",
   "keywords": ["tomp", "ultraviolet"]
 }
